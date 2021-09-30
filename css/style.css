@@ -1,0 +1,38 @@
+fieldset{
+    /* width: 30vw; */
+    margin-top: 2em;
+}
+.position{
+    display: flex;
+    justify-content: center;
+    width: 70vw;
+    margin: auto;
+}
+input{
+    width: 40vw;
+}
+
+legend{
+    background-color: #000;
+    color: #fff;
+    padding: auto;
+    
+}
+
+.yokonarabi{
+    display: flex;
+}
+
+.yokonarabi1{
+    display: flex;
+    justify-content: center;
+
+}
+.width{
+    width: 30vw;
+}
+
+.images{
+    margin-top: 2em;
+    margin-left: 2em;
+}
